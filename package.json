@@ -1,0 +1,27 @@
+{
+  "name": "mee6_addons",
+  "version": "0.5.0",
+  "description": "Mee6_Addons makes Mee6 commands that is blocked behind a paywall free.",
+  "main": "m6a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peter3019/Mee6_Addons.git"
+  },
+  "keywords": [
+    "Mee6_Addons"
+  ],
+  "author": "Zhe-Wei, Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peter3019/Mee6_Addons/issues"
+  },
+  "homepage": "https://github.com/peter3019/Mee6_Addons#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "nodemon": "^2.0.6",
+    "pm2": "^4.5.1"
+  }
+}
